@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Virtual Wormhole",
+  "universe": "FOM · The Virtual Wormhole (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Virtual Wormhole:FOM:48454d⟧",
+  "carbon": "the-virtual-wormhole.carbon.tiff (TIFF)",
+  "silicon": "the-virtual-wormhole.silicon.png (PNG)",
+  "seal_sha256": "c90b1040ac37075f9093cc1b1919d22d8a375f241718ee1a825fa86784de367b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

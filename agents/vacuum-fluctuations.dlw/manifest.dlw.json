@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vacuum Fluctuations",
+  "universe": "FOM · Vacuum Fluctuations (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦Vacuum Fluctuations:FOM:c95ad0⟧",
+  "carbon": "vacuum-fluctuations.carbon.tiff (TIFF)",
+  "silicon": "vacuum-fluctuations.silicon.png (PNG)",
+  "seal_sha256": "465fb6ba4e2037bb8e3eadcdc76045bbcc88ffd928858dcd8c052ab6d2e7c852",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

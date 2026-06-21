@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE QUANTUM FOAM",
+  "universe": "FOM · THE QUANTUM FOAM (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE QUANTUM FOAM:FOM:69f11b⟧",
+  "carbon": "the-quantum-foam.carbon.tiff (TIFF)",
+  "silicon": "the-quantum-foam.silicon.png (PNG)",
+  "seal_sha256": "801c00c28285a110c5d3cfd8f777d7322964b6e913c85eeef42c9f46f28305ee",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
