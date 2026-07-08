@@ -4,6 +4,6 @@ slug  : the-quantum-foam
 seal  : 801c00c28285a110c5d3cfd8f777d7322964b6e913c85eeef42c9f46f28305ee
 prev  : 8b3ad2866e3352520a48efe6543fcfeacd2bce342e3d32a7f06f78c15b5e4bdb
 link  : 106d7b47c69b5f4fe52f544815b77349eb1022b567e3e8950f12751dc58ac2ec
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
